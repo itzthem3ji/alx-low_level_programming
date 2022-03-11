@@ -1,1 +1,1 @@
-# The ALX LOW LEVEL PROGRAMMING IN C REPOSITORY
+# The ALX Low Level Programming In C Repository
