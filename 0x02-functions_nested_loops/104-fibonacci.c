@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int i = 2;
+	int i = 7;
 	unsigned long int a = 0, b = 1, next = 0;
 
 	while (i < 98)
