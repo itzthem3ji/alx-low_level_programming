@@ -6,6 +6,6 @@
 * In case git push shows server error
     * Do this:
     `git config --global pull.rebase true`
+    
     `git config --global rebase.autoStash true`
     * Then push again
-    
