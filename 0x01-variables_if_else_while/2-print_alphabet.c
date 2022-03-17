@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: Get a random number and check its last digit, compare it with 5
+ * Description: Prints alphabet in lowercase, followed by new line
  * Return: 0
  */
 int main(void)
