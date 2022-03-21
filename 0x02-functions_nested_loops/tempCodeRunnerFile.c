@@ -15,7 +15,7 @@ int main(void)
 		next = a + b;
 		a = b;
 		b = next;
-		printf("%lu", next);
+		printf("%llu", next);
 
 		if (i < 49)
 		{
@@ -23,7 +23,6 @@ int main(void)
 		}
 		i++;
 	}
-	printf("\n");
 	// putchar('\n');
 	return (0);
 }
