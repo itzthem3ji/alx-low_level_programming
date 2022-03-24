@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - check the codeSchool students.
+ * main - check the code.
  *
  * Return: Always 0.
  */
