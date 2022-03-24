@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - check the code for Holberton School students.
+ * main - check the codeSchool students.
  * @a: an array of integers
  * @n: the number of elements to swap
  *
@@ -26,7 +26,7 @@ void print_array(int *a, int n)
 }
 
 /**
- * main - check the code for Holberton School students.
+ * main - check the codeSchool students.
  *
  * Return: Always 0.
  */
