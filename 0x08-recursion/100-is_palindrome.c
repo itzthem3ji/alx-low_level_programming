@@ -40,8 +40,6 @@ int comp_str(char *a, int l)
  */
 int is_palindrome(char *s)
 {
-	int l;
-
-	l = for_strlen(s, 0);
+	int l = for_strlen(s, 0);
 	return (comp_str(s, l));
 }
