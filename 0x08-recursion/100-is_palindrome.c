@@ -1,50 +1,47 @@
 #include "main.h"
 
 /**
- * _strlen_recursion - size
- * @s: pointer to string params
- * Return: recursion
+ * for_strlen - obtains string length
+ * @a: string
+ * @l: integer to count length
+ *
+ * Return: On success 1.
+ * On error, return -1, and errno is set appropriately.
+ */
+int for_strlen(char *a, int l)
+{
+	if (*a == 0)
+		return (l - 1);
+	return (for_strlen(a + 1, l + 1));
+}
+/**
+ * comp_str - compares string vs string reverse
+ * @a: string
+ * @l: length
+ *
+ * Return: On success 1.
+ * On error, -1 is returned, and errno is set appropriately.
  */
 
-int _strlen_recursion(char *s)
+int comp_str(char *a, int l)
 {
-	if (!*s)
-	{
+	if (*a != *(a + l))
 		return (0);
-	}
-	return (1 + _strlen_recursion(++s));
-}
-
-/**
- * p1 - palindrome
- * @s: pointer to string
- * @l: position
- * Return: boolena
- */
-
-int p1(char *s, int l)
-{
-	if (l < 1)
-	{
+	else if (*a == 0)
 		return (1);
-	}
-
-	if (*s == *(s + l))
-	{
-		return (p1(s + 1, l - 2));
-	}
-	return (0);
+	return (comp_str(a + 1, l - 2));
 }
-
 /**
- * is_palindrome - palindrome
- * @s: pointer to string
- * Return: recursion
+ * is_palindrome - checks if a string is a palindrome
+ * @s: string to evaluate
+ *
+ * Return: On success 1.
+ * On error, -1 is returned, and errno is set appropriately.
  */
-
 int is_palindrome(char *s)
 {
-	int len = _strlen_recursion(s);
+	int l;
 
-	return (p1(s, len - 1));
+	l = for_strlen(s, 0);
+	return (comp_str(s, l));
 }
