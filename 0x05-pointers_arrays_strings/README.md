@@ -1,1 +1,1 @@
-# Learning Pointers, arrays and strings in C
+# The ALX Pointers, Arrays and Strings Directory
