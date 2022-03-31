@@ -2,7 +2,7 @@
 
 /**
  * factorial - factorial of n.
- * @n: integer arams
+ * @n: integer params
  * Return: recursion
  */
 
