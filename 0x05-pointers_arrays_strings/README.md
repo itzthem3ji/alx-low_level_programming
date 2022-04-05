@@ -1,1 +1,8 @@
-# The ALX Pointers, Arrays and Strings Directory
+# The ALX Projects: Pointers, Arrays and Strings Part I.
+
+#### Areas Covered
+* What are pointers and how to use them
+* What are arrays and how to use them
+* What are the differences between pointers and arrays
+* How to use strings and how to manipulate them
+* Scope of variables

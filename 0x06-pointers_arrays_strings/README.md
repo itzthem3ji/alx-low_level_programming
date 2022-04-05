@@ -1,1 +1,7 @@
-# The ALX Pointers, Arrays and Strings Directory Continued.
+# The ALX Projects: Pointers, Arrays and Strings Part II.
+
+#### Areas Covered
+* String (Array) Concatenation
+* String (Array) Comparison
+* Array Reversal
+* String Manipulation

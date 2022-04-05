@@ -1,1 +1,6 @@
-# ALX Debugging Directory
+# The ALX Projects: Understanding Debugging
+
+#### Areas Covered
+* What is debugging
+* What are some methods of debugging manually
+* How to read the error messages
