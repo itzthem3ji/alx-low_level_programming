@@ -1,4 +1,4 @@
-# The ALX Projects:Hello World (Introduction to C).
+# The ALX Low-Level Programming Projects In C: Hello World (Introduction to C).
 * ## Everything you need to know to start with C.
 * ## Betty Coding Style
 #### Areas Covered

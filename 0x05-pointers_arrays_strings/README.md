@@ -1,4 +1,4 @@
-# The ALX Projects: Pointers, Arrays and Strings Part I.
+# The ALX Low-Level Programming Projects In C: Pointers, Arrays and Strings Part I.
 
 #### Areas Covered
 * What are pointers and how to use them

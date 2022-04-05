@@ -1,4 +1,4 @@
-# The ALX Projects: Understanding Debugging
+# The ALX Low-Level Programming Projects In C: Understanding Debugging
 
 #### Areas Covered
 * What is debugging

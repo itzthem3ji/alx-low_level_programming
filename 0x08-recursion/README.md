@@ -1,4 +1,4 @@
-# The ALX Projects: Understanding Recursion
+# The ALX Low-Level Programming Projects In C: Understanding Recursion
 
 #### Areas Covered
 * What is recursion

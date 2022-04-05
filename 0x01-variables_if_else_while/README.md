@@ -1,4 +1,4 @@
-# The ALX Projects: Understanding Variables If, Else, and While in C
+# The ALX Low-Level Programming Projects In C: Understanding Variables If, Else, and While in C
 #### Areas Covered
 * What are the arithmetic operators and how to use them
 * What are the logical operators (sometimes called boolean operators) and how to use them

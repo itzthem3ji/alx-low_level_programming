@@ -1,4 +1,4 @@
-# The ALX Projects:Understanding Memory Allocation.
+# The ALX Low-Level Programming Projects In C: Understanding Memory Allocation.
 * ## The Use of Malloc, Free.
 * ## Managing Memory Leaks with Valgrind
 #### Areas Covered

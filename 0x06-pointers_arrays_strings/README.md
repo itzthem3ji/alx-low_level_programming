@@ -1,4 +1,4 @@
-# The ALX Projects: Pointers, Arrays and Strings Part II.
+# The ALX Low-Level Programming Projects In C: Pointers, Arrays and Strings Part II.
 
 #### Areas Covered
 * String (Array) Concatenation

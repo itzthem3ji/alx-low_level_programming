@@ -1,4 +1,4 @@
-# The ALX Projects: Pointers, Arrays and Strings Part III.
+# The ALX Low-Level Programming Projects In C: Pointers, Arrays and Strings Part III.
 
 #### Areas Covered
 * What are pointers to pointers and how to use them

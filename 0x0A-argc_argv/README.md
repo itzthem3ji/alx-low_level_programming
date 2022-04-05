@@ -1,4 +1,4 @@
-# The ALX Projects: Arguments, Prototypes and Unused Variables in C - argc, argv
+# The ALX Low-Level Programming Projects In C: Arguments, Prototypes and Unused Variables in C - argc, argv
 
 #### Areas Covered
 * How to use arguments passed to your program

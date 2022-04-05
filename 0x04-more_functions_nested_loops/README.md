@@ -1,4 +1,4 @@
-# The ALX Projects: Functions and Nested Loops Continued...
+# The ALX Low-Level Programming Projects In C: Functions and Nested Loops Part II.
 
 #### Areas Covered
 * What are nested loops and how to use them
