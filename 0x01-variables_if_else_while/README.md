@@ -15,3 +15,8 @@
 * How to print variables using printf
 * What is the ASCII character set
 * What are the purpose of the gcc flags -m32 and -m64
+
+
+[Home](..)
+[Previous](../0x00-hello_world/)                                   
+[Next](../0x02-functions_nested_loops/)

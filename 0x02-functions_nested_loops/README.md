@@ -8,3 +8,7 @@
 * Scope of variables
 * What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
 * What are header files and how to to use them with #include
+
+[Home](..)
+[Previous](../0x01-variables_if_else_while/)                                   
+[Next](../0x03-debugging/)

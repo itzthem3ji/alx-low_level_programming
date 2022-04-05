@@ -9,3 +9,7 @@
 * What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
 * What are header files and how to to use them with #include
 
+
+[Home](..)
+[Previous](../0x03-debugging/)                                   
+[Next](../0x05-pointers_arrays_strings/)

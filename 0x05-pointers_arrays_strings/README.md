@@ -6,3 +6,9 @@
 * What are the differences between pointers and arrays
 * How to use strings and how to manipulate them
 * Scope of variables
+
+
+
+[Home](..)
+[Previous](../0x04-more_functions_nested_loops/)                                   
+[Next](../0x06-pointers_arrays_strings/)
