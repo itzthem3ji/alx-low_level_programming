@@ -7,6 +7,6 @@
 
 
 
-[Home](..)
+[Home](../)
 [Previous](../0x06-pointers_arrays_strings/)                                   
 [Next](../0x08-recursion/)

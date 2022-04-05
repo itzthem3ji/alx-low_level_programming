@@ -79,4 +79,4 @@
             * Your program should return 1
             * Your program should compile without any warnings when using the -Wall gcc option
 
-[Home](..)                                       [Next](../0x01-variables_if_else_while/)
+[Home](../)                                       [Next](../0x01-variables_if_else_while/)
