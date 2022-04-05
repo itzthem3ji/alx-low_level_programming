@@ -8,8 +8,8 @@
 * How to use valgrind to check for memory leak
 
 # Tasks Lists
-* 0-create_array.c
-    * ## Float Like a Butterfly, Sting Like a Bee:
+* ## 0-create_array.c
+    * ### Float Like a Butterfly, Sting Like a Bee:
         * Write a function that creates an array of chars, and initializes it with a specific char.
             * Prototype: char *create_array(unsigned int size, char c);
             * Returns NULL if size = 0
