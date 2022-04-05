@@ -3,12 +3,11 @@
 #include <string.h>
 
 /**
- * @brief 
- * 
- * @param s1 
- * @param s2 
- * @return char* 
- */
+* str_concat - Concat 2 strings.
+* @s1: string
+* @s2: string
+* Return: char
+*/
 
 char *str_concat(char *s1, char *s2)
 {

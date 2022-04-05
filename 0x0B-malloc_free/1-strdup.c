@@ -1,10 +1,9 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * @brief 
- * 
- * @param str 
- * @return ptr: pointer to string duplicate 
+ * _strdup - copy
+ * @str: pointer to string
+ * Return: pointer
  */
 
 char *_strdup(char *str)

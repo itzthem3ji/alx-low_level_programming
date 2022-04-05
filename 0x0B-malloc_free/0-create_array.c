@@ -1,11 +1,10 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * @brief Creates an array of chars
- * 
- * @param size: size of block 
- * @param c: specific char 
- * @return ptr: pointer to array 
+ * create_array - create array
+ * @size: size
+ * @c: constant
+ * Return: char pointer
  */
 
 char *create_array(unsigned int size, char c)
