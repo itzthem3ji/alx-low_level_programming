@@ -8,6 +8,6 @@
 
 
 
-[Home](../)
+[Home](/../../)
 [Previous](../0x05-pointers_arrays_strings/)                                   
 [Next](../0x07-pointers_arrays_strings/)

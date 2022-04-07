@@ -66,7 +66,7 @@
             * Returns NULL if str == NULL or str == ""
             * If your function fails, it should return NULL
 
-[Home](../)
+[Home](/../../)
 [Previous](../0x0A-argc_argv/)                                   
 [Next](../#/)
 

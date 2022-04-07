@@ -10,6 +10,6 @@
 * What are header files and how to to use them with #include
 
 
-[Home](../)
+[Home](/../../)
 [Previous](../0x03-debugging/)                                   
 [Next](../0x05-pointers_arrays_strings/)

@@ -7,6 +7,6 @@
 
 
 
-[Home](../)
+[Home](/../../)
 [Previous](../0x08-recursion/)                                   
 [Next](../0x0A-argc_argv/)
