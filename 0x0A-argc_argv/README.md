@@ -51,6 +51,8 @@
       * If the number of arguments passed to the program is not exactly one,
       it prints `Error` followed by a new line and returns `1`.
 
-[Home](/../../)
-[Previous](../0x09-static_libraries/)                                   
-[Next](../0x0B-malloc_free/)
+<h3 align="left">[Home](/../../)</h3>
+<h3 align="center">[Previous](../0x09-static_libraries/)</h3>
+<h3 align="right">[Next](../0x0B-malloc_free/)</h3>
+                                   
+
