@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - check the code for Holberton School students.
+ * main - check the code for Best School students.
  *
  * Return: void.
  */
