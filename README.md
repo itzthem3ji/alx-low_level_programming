@@ -12,5 +12,8 @@
 * [Understanding Recursion](./0x08-recursion/)
 * [Introduction to C - Static Libraries](./0x09-static_libraries/)
 * [Arguments, Prototypes and Unused Variables in C - argc, argv](./0x0A-argc_argv/)
-* [Understanding Memory Allocation.](./0x0B-malloc_free/)
+* [Understanding Memory Allocation](./0x0B-malloc_free/)
+* [Understanding Memory Allocation II](./0x0C-more_malloc_free/)
+* [Learning the C Preprocessor](./0x0D-preprocessor/)
+* [Understanding Struct and Typedef](./0x0E-structures_typedef/)
 
