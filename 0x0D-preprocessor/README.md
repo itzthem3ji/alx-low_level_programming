@@ -1,5 +1,3 @@
-# 
-
 # The ALX Low-Level Programming Projects In C: Learning the C Preprocessor
 * ## Understanding C program Compilation Process.
 * ## Object-like Macros and Macro Arguments
