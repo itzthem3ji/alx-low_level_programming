@@ -16,4 +16,5 @@
 * [Understanding Memory Allocation II](./0x0C-more_malloc_free/)
 * [Learning the C Preprocessor](./0x0D-preprocessor/)
 * [Understanding Struct and Typedef](./0x0E-structures_typedef/)
+* [Function pointers](./0x0F-function_pointers/)
 
