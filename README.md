@@ -16,5 +16,10 @@
 * [Understanding Memory Allocation II](./0x0C-more_malloc_free/)
 * [Learning the C Preprocessor](./0x0D-preprocessor/)
 * [Understanding Struct and Typedef](./0x0E-structures_typedef/)
-* [Function pointers](./0x0F-function_pointers/)
+* [Function Pointers](./0x0F-function_pointers/)
+* [Variadic Functions](./0x10-variadic_functions/)
+* [Singly Linked Lists I](./0x12-singly_linked_lists/)
+* [Singly Linked Lists II](./0x13-more_singly_linked_lists/)
+* [Bit Manipulation](./0x14-bit_manipulation/)
+* [File I/O](./0x15-file_io/)
 

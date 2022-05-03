@@ -51,3 +51,8 @@ Bit manipulation is the act of algorithmically manipulating bits or other pieces
 
 ## ~ negation
 Another way to do this is to use the ~ operator to help construct the mask: y = y&(~0x10)
+
+
+[Home](/../../)
+[Previous](../0x13-more_singly_linked_lists/)                                   
+[Next](../0x15-file_io/)

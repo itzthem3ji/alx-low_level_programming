@@ -1,12 +1,4 @@
-# ALX - main Program
- 
- ------------
-
-## C - Programming 
-
-------------
-
-### 0x12-SINGLY_LINKED_LISTS 
+## The ALX Low-Level Programming Projects In C: 0x12-SINGLY_LINKED_LISTS 
 
 The code must be compiled using 
 
@@ -57,3 +49,6 @@ It`s 64-bit program in assembly that prints "Hello, main", followed by a new lin
 it`s an header file containing the definition of the list_t struct and all the prototypes of the above functions.
 
 
+[Home](/../../)
+[Previous](../0x0A-argc_argv/)                                   
+[Next](../0x13-more_singly_linked_lists/)
